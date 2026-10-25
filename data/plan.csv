@@ -1,0 +1,6 @@
+date,week,block,day,slot,sport,session,duration_min,intensity,details,nutrition,focus,status
+2026-01-05,1,A,Mon,Any,rest,Rest day,,rest,"EXAMPLE - delete at setup. Walk if you like.","maintenance",general,done
+2026-01-06,1,A,Tue,PM,run,Easy run/walk,30,Z2,"EXAMPLE - 5 min walk, then 1 min run / 1 min walk x10, 5 min walk.","maintenance",5k,done
+2026-01-07,1,A,Wed,PM,strength,Strength (STR),30,moderate,"EXAMPLE - split squat, RDL, push-ups, rows, calf raises, plank. 2 sets.","maintenance",general,moved
+2026-01-08,1,A,Thu,PM,strength,Strength (STR),30,moderate,"EXAMPLE - moved from Wed.","maintenance",general,planned
+2026-01-10,1,A,Sat,AM,run,Long easy run/walk,45,Z2,"EXAMPLE - conversational pace, walk breaks fine.","eat normally, fuel the session",5k,planned

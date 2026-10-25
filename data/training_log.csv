@@ -1,0 +1,2 @@
+date,sport,type,duration_min,distance_km,elevation_m,avg_pace,avg_hr,avg_power_w,rpe,focus,notes
+2026-01-06,run,Easy run/walk,31,3.6,12,08:36,141,,4,5k,"EXAMPLE - delete at setup. Felt easy; knee 0/10"

@@ -1,0 +1,3 @@
+date,time,meal,description,est_kcal,est_protein_g,notes
+2026-01-06,08:00,breakfast,"2 eggs + 2 slices wholemeal toast",300,18,"EXAMPLE - delete at setup. food_reference: egg 70/6 each; toast ~80/4 per slice"
+2026-01-06,13:00,lunch,"Chicken breast ~150 g + rice ~200 g + vegetables",560,52,"EXAMPLE - weighed by user; chicken 100 g 165/31; rice 100 g 130/2.7; veg ~50"

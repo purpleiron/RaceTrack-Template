@@ -1,0 +1,2 @@
+datetime,weight_kg,bmi,body_fat_pct,fat_mass_kg,fat_free_kg,muscle_mass_kg,skeletal_muscle_kg,body_water_pct,protein_pct,bone_kg,visceral_fat,bmr_kcal,heart_rate,source,notes
+2026-01-05 07:10,78.4,24.2,24.5,19.2,59.2,56.1,,55.0,,3.1,9,1690,,smart scale,"EXAMPLE - delete at setup (optional file)"
